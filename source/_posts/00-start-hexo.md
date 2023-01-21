@@ -2,8 +2,7 @@
 title: Hexo博客部署与NexT主题的使用
 date: 2023-01-21 03:00:00
 categories: 博客
-tags:
-      - 博客
+tags: 博客
 ---
 ## 安装 Hexo
 ```bash
