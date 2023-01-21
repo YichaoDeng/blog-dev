@@ -1,8 +1,8 @@
 ---
 title: NeoVim的安装与自定义扩展
 date: 2023-01-22 01:35:22
-categories: MacOS
-tags: MacOS
+categories: nvim
+tags: nvim
 ---
 ## 安装 neovim
 
