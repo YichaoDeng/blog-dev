@@ -12,20 +12,14 @@ tags:
 
 ```bash
 # 1. global (my choice)
-
 npm install -g hexo-cli
 
-
 # 2. local
-
 npm install hexo
-
 
 # choose 1 or 2 -> install
 
-
 # 3. uninstall
-
 npm uninstall hexo
 ```
 
