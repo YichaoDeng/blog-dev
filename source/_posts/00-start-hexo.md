@@ -1,34 +1,23 @@
 ---
-title: 【一记】部署Hexo-NexT博客
+title: Hexo博客部署与NexT主题的使用
 date: 2023-01-21 03:00:00
 categories: 博客
 tags:
       - 博客
 ---
-
-> default is the best ~!
-
 ## 安装 Hexo
-
 ```bash
 # 1. global (my choice)
 npm install -g hexo-cli
-
 # 2. local
 npm install hexo
-
 # choose 1 or 2 -> install
-
 # 3. uninstall
 npm uninstall hexo
 ```
-
-   官方参考：
-
+官方参考：
 [Hexo官方文档](https://hexo.io/zh-cn/docs/)
-
 <!--more-->
-
 ## 初始化仓库
 
 ```bash
