@@ -1,7 +1,9 @@
 ---
-title: 【Yichao】How-I-Build-My-Blog
+title: 【一记】部署Hexo-NexT博客
 date: 2023-01-21 03:00:00
-tags: 
+categories: 博客
+tags:
+      - 博客
 ---
 
 > default is the best ~!
