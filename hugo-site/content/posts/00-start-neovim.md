@@ -1,7 +1,6 @@
 ---
 title: "NeoVim的安装与扩展配置"
 date: 2023-01-22T00:00:00+00:00
-weight: 1
 tags: ["neovim"]
 categories: ["neovim"]
 author: "Yichao"

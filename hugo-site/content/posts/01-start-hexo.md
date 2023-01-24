@@ -1,8 +1,10 @@
 ---
-title: "Hexo博客部署与NexT主题的使用"
-date: 2023-01-23T00:00:00+00:00
+title: "Hexo博客部署NexT主题站点"
+date: 2023-01-21T00:00:00+00:00
 categories: ["Blog", "hexo"]
 tags: ["Blog", "hexo", "NexT"]
+author: "Yichao"
+draft: false
 description: "简单记录Hexo博客部署与NexT主题的使用"
 ---
 ## 1. 安装 Hexo
